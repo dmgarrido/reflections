@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 A .git folder is created
 To begin using Git in this folder
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+In the staging area we put only the files we want to commit. It offers the posibility of make small commits 
+
