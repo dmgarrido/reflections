@@ -11,3 +11,13 @@ Adding to the staging area only the files that are related to the change
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 To make changes and experiment without affecting the master branch
 
+How do the diagrams help you visualize the branch structure?
+It helps you to find unreachable commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We obtain a mix of the 2 branches, with all the commits of both
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging is more comfortable and Git is able to do it almost in all cases
+Doing merges manually is more safe when there are conflicts but is slower in normal cases
+
