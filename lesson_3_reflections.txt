@@ -11,3 +11,5 @@ If you want to make changes on a repository of GitHub and you don't have permiss
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Having the last state of my remote stored locally, I can see the changes that have been made to the remote since the last time I conected to it.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Maybe using emails. It would be harder to resolve the conflicts.
