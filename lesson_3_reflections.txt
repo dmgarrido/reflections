@@ -7,3 +7,7 @@ Because you may not want to share all your changes to your remote repository
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Branches are only in local, forks are only in GitHub and clone may be used for a local repository or for a remote one.
 If you want to make changes on a repository of GitHub and you don't have permission, you can fork it and the clone it into your local repository, and then modify it and push your changes to your forked version.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Having the last state of my remote stored locally, I can see the changes that have been made to the remote since the last time I conected to it.
+
