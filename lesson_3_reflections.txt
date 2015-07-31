@@ -13,3 +13,6 @@ Having the last state of my remote stored locally, I can see the changes that ha
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Maybe using emails. It would be harder to resolve the conflicts.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+To make new features without affecting to the master branch.
